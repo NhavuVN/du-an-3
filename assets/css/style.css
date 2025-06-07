@@ -45,7 +45,6 @@ a {
 /* == header == */
 
 .header {
-  background-image: url(/img/header-hero.jpg);
   height: 80vh;
   object-fit: cover;
   background-repeat: no-repeat;
